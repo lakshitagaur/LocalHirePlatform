@@ -35,4 +35,4 @@ jwt:
 logging:
   level:
     com.localhire: DEBUG
-    org.springframework.security: DEBUG
+    org.springframework.security: TRACE
